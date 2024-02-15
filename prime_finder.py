@@ -1,9 +1,8 @@
 
- #how to find a prime number 
 
 number = int(input('Please enter a number: '))
 
-# function to determine a prime number
+# Function to determine a prime number
 
 def findPrime(number):
     isPrime = True
@@ -17,4 +16,6 @@ def findPrime(number):
         print('This is not a prime number')
 
 
+number = int(input('Please enter a number: '))
 findPrime(number)
+
