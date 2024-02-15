@@ -1,7 +1,5 @@
 
 
-number = int(input('Please enter a number: '))
-
 # Function to determine a prime number
 
 def findPrime(number):
